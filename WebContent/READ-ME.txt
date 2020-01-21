@@ -1,0 +1,48 @@
+This is my project website "AkademiKs" which has a purpose to improve overall quality of education of students.
+It is uses HTML, CSS, JS, Bootstrap,Java, JSP and MySql technologies.
+
+Quiz --> Practice
+My Classroom --> Classroom
+Navbar --> Change
+
+index.html - Welcome Page (.browserslistrc, gulpfile.js, .travis.yml, package.json, package-lock.json) - OK
+Home.jsp - Home Page 																				   - OK
+login.jsp - Login Authentication --> db.LoginTable --> stud_details/faculty_details 				   - OK
+logout - end login session 																			   - OK
+Register_Page.jsp -- Register Form Page																   - OK
+register.jsp - Verification and Register --> db.RegisterTable --> stud_details 						   - OK
+Quiz.jsp - Quiz Page																				   - OK
+Maths_Exam.jsp - Maths Quiz Instructions Page														   - OK
+Physics_Exam.jsp - Physics Quiz Instructions Page													   - OK
+Computer_Exam.jsp - Science Quiz Instructions Page													   - OK
+Maths_Quiz.jsp - Display Maths Quiz Questions --> 	MathsQuiz.java --> maths_ques					   - OK
+Question.jsp - Gives Question to Maths_Quiz + checks solution and creates result					   - OK
+Quiz_Result.jsp - Displays The result of Quiz														   - OK
+Submit_Quiz.jsp - Submit Quiz Questions --> SubmitQuiz.java --> maths_ques							   - OK
+StudyMaterial.jsp - Study resources and tutorials
+About.jsp - About Website and Myself																   - OK
+0.jsp, 1.jsp, 2.jsp, 3.jsp, noans.jsp - To select quiz options										   - OK
+
+db.Connect - To Make Database Connection 															   -OK
+db.LoginTable - To Check Login Details From Database stud_details/faculty_details					   -OK
+db.RegisterTable - To Enter Details in Database stud_details										   -OK
+db.MathsQuiz - To Fetch Question from database maths_ques											   -OK
+db.SubmitQuiz - To Enter Question in database maths_ques											   -OK
+db.StoreResult - Stores the Quiz Result Temporarily													   -OK
+db.GetUserDetails - Retrieves all user required stats from Database
+
+Student_Dashboard.jsp - Student Profile and Stats
+Teacher_Dashboard.jsp - Teacher Profile and Stats
+Admin_Login							-- Not completed Yet
+Classroom.jsp - Q/A Forum			-- Not completed Yet
+Post_Question - Post Question		-- Not completed Yet
+My_Question - Q/A Thread --> forum  -- Not completed Yet
+pp.jsp - Privacy Policy				-- Not completed Yet
+tu.jsp - Terms Of Use				-- Not completed Yet
+Physics_Quiz.jsp					-- Not completed Yet
+Computer_Quiz.jsp					-- Not completed Yet
+
+Further Plans:
+1. Students could also submit question and teachers can review them
+2. Feature to upload Notes and Assignments
+3. Further Sub-division of each Quiz section based on Topics and level of difficulty.
