@@ -295,7 +295,7 @@
   <div class="col-md-4">
     <div class="card" style="border-style:none;">
     <div class="px-5">
-    <img src="img/profilepic.jpg" class="card-img-top" height="260px" style="border-radius:50%; border-style:solid">
+    <img src="img/profilepic.jpg" class="card-img-top" height="270px" style="border-radius:50%; border-style:solid">
     </div>
     <div class="card-body">
       <h5 class="card-title">About Me</h5>

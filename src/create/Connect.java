@@ -1,4 +1,4 @@
-package db;
+package create;
 import java.sql.*;
 
 public class Connect
