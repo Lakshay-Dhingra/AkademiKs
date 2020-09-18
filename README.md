@@ -1,13 +1,12 @@
 # AkademiKs
-Akademiks is an educational website developed using JSP, HTML, CSS, JS, Bootstrap and MySQL.
+AkademiKs is a quiz website with a study resources section and full login/register functionality.
 
 A basic walkthrough of the project:
 <br><br>
 -> First you'll see the welcome page.
 <br><br>
-<kbd>
+
 ![](https://raw.githubusercontent.com/Lakshay-Dhingra/AkademiKs/master/images/img1.PNG)
- </kbd>
 <br><br>
 ![](https://raw.githubusercontent.com/Lakshay-Dhingra/AkademiKs/master/images/img2.PNG)
 <br><br>
